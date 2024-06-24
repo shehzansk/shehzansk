@@ -14,7 +14,7 @@
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
-- 🔭 I’m currently pursing a **B.E. CSE at [Shri Ramdeobaba College of Engineering Nagpur](https://www.rknec.edu.in/)**
+- 🔭 I’m currently pursing a **B.E. CSE at [Shri Ramdeobaba College of Engineering Nagpur](https://www.rknec.edu/)**
 
 - 📫 How to reach me **shehzansheikh0@gmail.com**
 
@@ -70,7 +70,7 @@
 </p>
 
 <!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
-<h1 align="center">🚀 ACHIEVEMENTS 🚀 </h1>
+<h1 align="center">🚀 Badges 🚀 </h1>
 
 [![An image of @shehzansk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shehzansk)](https://holopin.io/@shehzansk)
 <br><br><br>
