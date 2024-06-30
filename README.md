@@ -44,28 +44,21 @@
 ### Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,express,prisma,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,express,npm" />
   </a>
 </p>
 
 ### Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
-  </a>
-</p>
-
-### DevOps & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
 ### Tools/Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,idea,pycharm,vscode,vercel,postman,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,replit,vscode,vercel,postman,ubuntu,windows" />
   </a>
 </p>
 
