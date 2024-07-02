@@ -30,7 +30,7 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shehzansk&label=Profile%20views&color=0e75b6&style=flat" alt="shehzansk" /> </p>
 <h1 align="center" style="text-decoration: none;">🚀 SKILLS 🚀</h1>
 
 
