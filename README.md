@@ -8,13 +8,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-- ✌️ Enjoy to do programming and sharing knowledge
+- ✌️ I enjoy programming and love sharing knowledge with others.
 
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
+- 🥋 I'm a passionate problem-solving enthusiast, always eager to learn and apply new ideas effectively.
 
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+- 👨‍💻 Excited by new technologies and constantly exploring different areas in tech.
 
-- 🔭 I’m currently pursing a **B.E. CSE at [Shri Ramdeobaba College of Engineering Nagpur](https://www.rknec.edu/)**
+- 🔭 Currently pursuing a **B.Tech in Computer Science and Engineering at [Shri Ramdeobaba College of Engineering Nagpur](https://www.rknec.edu/)**
 
 - 📫 How to reach me **shehzansheikh0@gmail.com**
 
